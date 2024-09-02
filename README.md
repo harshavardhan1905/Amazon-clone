@@ -1,2 +1,2 @@
 # Amazon-clone
-Creating amazon clone Authon Harsha
+Creating amazon clone <br> Authon Harsha
