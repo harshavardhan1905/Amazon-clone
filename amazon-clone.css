@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+}
+.search-sec{
+    height: 60px;
+    border: solid 1px red;
+    margin: 0px;
+}
+.nav-logo{
+    width: 20%;
+    display: flex;
+}
